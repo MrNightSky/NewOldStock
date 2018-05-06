@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewOldStock</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="InternetError">Some problems\n with internet. \n Check the connection \n and try again.</string>
+</resources>
